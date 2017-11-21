@@ -12,6 +12,22 @@
  * [Angular] 
  * [TypeScript]
 
+### Como rodar um projeto pronto
+
+'''
+    npm install
+'''
+
+### app de sala
+netflix***
+mockup: wesley
+analise casos de uso: mailson
+analise casos de classe: renan
+analise casos de sequencia: thalia
+analise casos de atividade: bernardo
+
+###   enucomp mutirao de isntalacao
+
 
 ## Trabalho Final
 ----
@@ -20,15 +36,22 @@
 
 **Sugestões**
 
-Ideia   |   Ramo
---- |   ---
-Uber    |   Transporte
-Tinder  |   Encontros
-iFood   |   Comida, Delivery
-TripAdvisor |   Turismo
-AirBnb  |   Hotelaria
-iGas    |   Delivery
-iPark  |   Pagamento
+Ideia       |   Ramo
+---         |   ---
+Uber        |   Transporte
+Tinder      |   Encontros
+AirBnb      |   Hotelaria
+iFood       |   Comida, Delivery
+iPark       |   Estacionamento, Pagamento
+iTHelp      |   Socorro, Emergência
+
+**Propostas Aceitas**
+Ideia       |   Grupo           |   Ramo
+---         |   ---             |   ---
+Entregás    |   Mailson - Lana  |   Delivery
+TamuJunto   |   Renan - Thalia  |   Entretenimento
+Indefinido* |   Wesley - Gilvan |   Turismo(TripAdvisor)
+
 
 **Requisitos**
 
@@ -38,7 +61,7 @@ iPark  |   Pagamento
 - Pagamento ([Paypal], [PagSeguro], [MercadoPago], [pagar.me])
 
 **Marcos**
-> - **1º Acompanhamento:** 14/11/2017
+> - **1º Acompanhamento:** ~~14/11/2017~~ 21/11/2017
 > - **2º Acompanhamento:** 12/12/2017
 > - **3º Acompanhamento:** 30/01/2018
 > - **[Prazo Final]:** 06/03/2018, às 23:59 hrs
