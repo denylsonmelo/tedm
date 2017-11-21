@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar color="penelope">
+    <ion-title>
+      Login
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-list>
+
+    <ion-item>
+        <ion-label floating>Usuário</ion-label>
+        <ion-input type="text" ([ngModel])="usuario" > </ion-input>
+    </ion-item>
+
+
+    <ion-item>
+      <ion-label fixed>Senha</ion-label>
+      <ion-input type="text"  value="{{ senha }}">  </ion-input>
+    </ion-item>
+
+  </ion-list>
+
+  <button ion-button icon-left full color="penelope" (click)="logar()">
+    <ion-icon name="log-in"></ion-icon>
+    Logar
+  </button>
+
+</ion-content>
