@@ -1,8 +1,13 @@
 # Tópicos Especiais em Desenvolvimento Móvel
+----
+
+@TODO colocar introdução e objetivo da disciplina
 
 ## Indice
 1. [Conteudo]
-2. [Trabalho Final]
+2. [App da Sala]
+3. [Informações Importantes]
+4. [Trabalho Final]
 
 ### Conteúdo
 ----
@@ -12,13 +17,11 @@
  * [Angular] 
  * [TypeScript]
 
-### Como rodar um projeto pronto
+### App da Sala
+----
 
-'''
-    npm install
-'''
-
-### app de sala
+@TODO colocar definicao de projeto a ser desenvolvido em sala pelos alunos
+@TODO estudo de caso e atividades
 
 netflix***
 mockup: wesley
@@ -27,9 +30,21 @@ analise casos de classe: renan
 analise casos de sequencia: thalia
 analise casos de atividade: bernardo
 
+### Informações Importantes
+----
+
+**Como rodar um projeto pronto**
+'''
+    npm install
+'''
+
+
+
 
 ## Trabalho Final
 ----
+
+@TODO colocar definição do projeto
 
 **Grupo:** 2 pessoas
 
@@ -78,6 +93,8 @@ Indefinido* |   Turismo(TripAdvisor)    |   Wesley - Gilvan
 
 
 [Conteudo]: #conteudo
+[App da Sala]: #app-da-sala
+[Informações Importantes]: #informacoes-importantes
 [Trabalho Final]: #trabalho-final
 
 [Hibrido]: #####
