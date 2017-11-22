@@ -9,7 +9,7 @@
 3. [Informações Importantes]
 4. [Trabalho Final]
 
-### Conteúdo
+## Conteúdo
 ----
  * [Hibrido]
  * [Progressive Web App] 
@@ -17,8 +17,10 @@
  * [Angular] 
  * [TypeScript]
 
-### App da Sala
+## App da Sala
 ----
+
+[Voltar para o indice]
 
 @TODO colocar definicao de projeto a ser desenvolvido em sala pelos alunos
 @TODO estudo de caso e atividades
@@ -30,16 +32,13 @@ analise casos de classe: renan
 analise casos de sequencia: thalia
 analise casos de atividade: bernardo
 
-### Informações Importantes
+## Informações Importantes
 ----
 
 **Como rodar um projeto pronto**
 '''
     npm install
 '''
-
-
-
 
 ## Trabalho Final
 ----
@@ -92,6 +91,7 @@ Indefinido* |   Turismo(TripAdvisor)    |   Wesley - Gilvan
 * Certifique-se que todo o seu trabalho foi enviado
 
 
+[Voltar para o indice]: #indice
 [Conteudo]: #conteudo
 [App da Sala]: #app-da-sala
 [Informações Importantes]: #informacoes-importantes
