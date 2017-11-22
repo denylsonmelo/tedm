@@ -21,6 +21,11 @@
 ----
 
 [Voltar para o indice]
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
 
 @TODO colocar definicao de projeto a ser desenvolvido em sala pelos alunos
 @TODO estudo de caso e atividades
@@ -31,6 +36,12 @@ analise casos de uso: mailson
 analise casos de classe: renan
 analise casos de sequencia: thalia
 analise casos de atividade: bernardo
+
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
 
 ## Informações Importantes
 ----
