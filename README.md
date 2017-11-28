@@ -11,6 +11,13 @@
 
 ## Conteúdo
 ----
+
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
+
  * [Hibrido]
  * [Progressive Web App] 
  * [Ionic]
@@ -20,7 +27,6 @@
 ## App da Sala
 ----
 
-[Voltar para o indice]
 <br/>
 <div align="right">
     <b><a href="#indice">↥ Voltar para o indice</a></b>
@@ -28,6 +34,7 @@
 <br/>
 
 @TODO colocar definicao de projeto a ser desenvolvido em sala pelos alunos
+
 @TODO estudo de caso e atividades
 
 netflix***
@@ -37,22 +44,31 @@ analise casos de classe: renan
 analise casos de sequencia: thalia
 analise casos de atividade: bernardo
 
+
+## Informações Importantes
+----
+
 <br/>
 <div align="right">
     <b><a href="#indice">↥ Voltar para o indice</a></b>
 </div>
 <br/>
 
-## Informações Importantes
-----
-
 **Como rodar um projeto pronto**
-'''
+
+@TODO 
+```
     npm install
-'''
+```
 
 ## Trabalho Final
 ----
+
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
 
 @TODO colocar definição do projeto
 
@@ -71,11 +87,12 @@ iTHelp      |   Socorro, Emergência
 
 **Propostas Aceitas**
 
-Ideia       |   Ramo                    |   Grupo           
----         |   ---                     |   ---             
-Entregás    |   Delivery                |   Mailson - Lana  
-TamuJunto   |   Entretenimento          |   Renan - Thalia  
-Indefinido* |   Turismo(TripAdvisor)    |   Wesley - Gilvan 
+Ideia       |   Ramo                |   Grupo           
+---         |   ---                 |   ---             
+Entregás    |   Delivery            |   Mailson - Lana  
+TamuJunto   |   Entretenimento      |   Renan - Thalia  
+MobiTour    |   Turismo             |   Wesley - Gilvan 
+Indefinido* |   Compra - Delivery   |   Thiago - Matheus
 
 
 **Requisitos**
@@ -101,8 +118,12 @@ Indefinido* |   Turismo(TripAdvisor)    |   Wesley - Gilvan
 * Não serão aceitos trabalhos depois do prazo final
 * Certifique-se que todo o seu trabalho foi enviado
 
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
 
-[Voltar para o indice]: #indice
 [Conteudo]: #conteudo
 [App da Sala]: #app-da-sala
 [Informações Importantes]: #informacoes-importantes
