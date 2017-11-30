@@ -1,0 +1,47 @@
+<ion-header>
+	<ion-navbar color="flixDark">
+		<ion-title>Perfis</ion-title>
+		<ion-buttons end>
+			<button ion-button icon-only>
+				<ion-icon name="create"></ion-icon>
+			</button>
+			<button ion-button icon-only>
+				<ion-icon name="more"></ion-icon>
+			</button>
+		</ion-buttons>
+	</ion-navbar>
+
+</ion-header>
+
+<ion-content padding>
+	<div align="center">
+		<p>Quem está assistindo ?</p>
+	</div>
+
+
+	<ion-grid>
+		<ion-row>
+			<ion-col col-6 *ngFor="let perfil of perfis">
+				<ion-card>
+					<img src="{{ perfil.imagem }}" />
+					<ion-card-content>
+						<ion-card-title>
+							{{ perfil.nome }}
+						</ion-card-title>
+					</ion-card-content>
+				</ion-card>
+			</ion-col>
+			<ion-col col-6>
+				<ion-card>
+						<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-interface/512/add_button-32.png" />
+						<ion-card-content>
+							<ion-card-title>
+								Adicionar perfil
+							</ion-card-title>
+						</ion-card-content>
+					</ion-card>
+			</ion-col>
+		</ion-row>
+	</ion-grid>
+
+</ion-content>

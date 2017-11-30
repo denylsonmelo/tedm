@@ -1,0 +1,9 @@
+page-perfis {
+	.scroll-content {
+		background-color: map-get($colors, flixGray);
+	}
+	div p {
+		color:  map-get($colors, flixWhite);
+		font-size: 1.3em;
+	}
+}
