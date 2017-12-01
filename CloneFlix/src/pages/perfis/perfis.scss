@@ -6,4 +6,17 @@ page-perfis {
 		color:  map-get($colors, flixWhite);
 		font-size: 1.3em;
 	}
+	.box-card{
+		text-align: center;
+		background: map-get($colors, flixGray);
+		box-shadow: none;
+	}
+	.nome-card{
+		color: map-get($colors, flixWhite);
+		padding: 0.3em 0 ;
+	}
+	ion-icon[name='add-circle']{
+		font-size: 5em;
+		color: map-get($colors, flixWhite);
+	}
 }

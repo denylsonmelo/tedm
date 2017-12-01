@@ -18,6 +18,10 @@ export class PerfisPage {
 	constructor(public navCtrl: NavController, public navParams: NavParams) {
 	}
 
+	clicarNoCard(){
+		console.log("card clicado");
+	}
+
 	ionViewDidLoad() {
 		console.log('ionViewDidLoad PerfisPage');
 	}
