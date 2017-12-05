@@ -54,6 +54,10 @@ analise casos de atividade: bernardo
 </div>
 <br/>
 
+**Repositórios com exemplos interessantes**
+
+ * [yannbf/ionic3-components]
+
 **Como rodar um projeto com códigos fontes existentes**
 
 Baixe o projeto pelo seu repositório
@@ -162,3 +166,5 @@ Indefinido* |   Compra - Delivery   |   Thiago - Matheus
 
 [GitHub]: https://github.com/
 [denylsonmelo]: https://github.com/denylsonmelo/
+
+[yannbf/ionic3-components]: https://github.com/yannbf/ionic3-components
