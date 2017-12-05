@@ -54,11 +54,23 @@ analise casos de atividade: bernardo
 </div>
 <br/>
 
-**Como rodar um projeto pronto**
+**Como rodar um projeto com códigos fontes existentes**
 
-@TODO 
+Baixe o projeto pelo seu repositório
+```
+    git clone <seu-endereco-de-repositório-aqui> 
+``` 
+Entre na pasta do projeto e execute o comando abaixo para criar a pasta node_modules com suas dependências
 ```
     npm install
+```
+Rode o comando abaixo para criar a pasta www
+```
+    ionic serve
+```
+Rode o comando abaixo caso necessite restaurar plataformas e plugins que foram instalados no package.json
+```
+    ionic cordova prepare
 ```
 
 ## Trabalho Final
