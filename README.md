@@ -120,7 +120,7 @@ Indefinido* |   Compra - Delivery   |   Thiago - Matheus
 
 **Marcos**
 > - **1º Acompanhamento:** ~~14/11/2017~~ ~~21/11/2017~~ 23/11/2017
-> - **2º Acompanhamento:** 12/12/2017
+> - **2º Acompanhamento:** ~~12/12/2017~~ 19/12/2017
 > - **3º Acompanhamento:** 30/01/2018
 > - **[Prazo Final]:** 06/03/2018, às 23:59 hrs
 
