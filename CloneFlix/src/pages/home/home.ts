@@ -8,11 +8,38 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class HomePage {
 
-	categorias: Array<{ nome: string }> = [
-		{ nome: "Continuar assistindo" },
-		{ nome: "Minha lista" },
-		{ nome: "Recentes" },
-		{ nome: "Por que você assistiu a Liga da Justiça" }];
+
+	continuarAssitindo: Array<{ nome: string, videos: Array<{ nome:string, url: string }> }> = [
+		{
+			nome: "Continuar assistindo", videos: [
+				{ nome: "Spartacus: S01E01", url: "http://www.mkvtvseries.com/tv_series/media/tvlarge-Spartacus_104.jpg" },
+			]
+		},
+	];
+
+	categorias: Array<{ nome: string, imagens: Array<{ url: string }> }> = [
+		{
+			nome: "Minha lista", imagens: [
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+			]
+		},
+		{
+			nome: "Recentes", imagens: [
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+			]
+		},
+		{
+			nome: "Por que você assistiu a Liga da Justiça", imagens: [
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+			]
+		}
+	];
 
 	constructor(public navCtrl: NavController, public navParams: NavParams) {
 	}

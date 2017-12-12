@@ -10,7 +10,7 @@ import { PerfisPage } from '../pages/perfis/perfis';
   templateUrl: 'app.html'
 })
 export class MyApp {
-  rootPage:any = PerfisPage;
+  rootPage:any = HomePage;
 
   constructor(platform: Platform, statusBar: StatusBar, splashScreen: SplashScreen) {
     platform.ready().then(() => {
