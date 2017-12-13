@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { DetalhePage } from '../detalhe/detalhe';
 
 @IonicPage()
 @Component({
@@ -9,7 +10,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 export class HomePage {
 
 
-	continuarAssitindo: Array<{ nome: string, videos: Array<{ nome:string, url: string }> }> = [
+	continuarAssitindo: Array<{ nome: string, videos: Array<{ nome: string, url: string }> }> = [
 		{
 			//http://www.mkvtvseries.com/tv_series/media/tvlarge-Spartacus_104.jpg
 			nome: "Continuar assistindo", videos: [
@@ -43,6 +44,10 @@ export class HomePage {
 	];
 
 	constructor(public navCtrl: NavController, public navParams: NavParams) {
+	}
+
+	detalhe() {
+		this.navCtrl.push(DetalhePage);
 	}
 
 	ionViewDidLoad() {

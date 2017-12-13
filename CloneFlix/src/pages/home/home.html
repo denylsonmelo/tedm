@@ -20,8 +20,8 @@
 
 				<ion-slides loop="true" pager="false" slidesPerView="1.05" spaceBetween="5">
 					<ion-slide *ngFor="let video of categoria.videos">
-						<ion-card class="capa-filme">
-							<ion-icon name="play" class="play-play"></ion-icon>
+						<ion-card class="capa-filme" (tap)="detalhe()">
+							<ion-icon name="play" class="play-play" ></ion-icon>
 							<ion-icon name="radio-button-off" class="circulo-play"></ion-icon>
 							<ion-icon name="ios-information-circle-outline" class="info-video"></ion-icon>
 							<img src="{{video.url}}" />
