@@ -11,8 +11,9 @@ export class HomePage {
 
 	continuarAssitindo: Array<{ nome: string, videos: Array<{ nome:string, url: string }> }> = [
 		{
+			//http://www.mkvtvseries.com/tv_series/media/tvlarge-Spartacus_104.jpg
 			nome: "Continuar assistindo", videos: [
-				{ nome: "Spartacus: S01E01", url: "http://www.mkvtvseries.com/tv_series/media/tvlarge-Spartacus_104.jpg" },
+				{ nome: "Spartacus: S01E01", url: "https://i.ytimg.com/vi/zBqDed1vpJY/maxresdefault.jpg" },
 			]
 		},
 	];

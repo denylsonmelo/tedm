@@ -17,34 +17,32 @@
 		<ion-item *ngFor="let categoria of continuarAssitindo" class="listagem">
 			<ion-label class="espaco">
 				{{ categoria.nome}}
-				<ion-grid>
-					<ion-row class="espaco">
-						<ion-col col-12 *ngFor="let video of categoria.videos">
-							<ion-card class="capa-filme">
-								<ion-icon name="radio-button-off"></ion-icon>
-								<ion-icon name="play"></ion-icon>
-								<ion-icon name="information-circle"></ion-icon>
-								<img src="{{video.url}}" />
-								<ion-label class="titulo-video">{{video.nome}}</ion-label>
-							</ion-card>
-						</ion-col>
-					</ion-row>
-				</ion-grid>
+
+				<ion-slides loop="true" pager="false" slidesPerView="1.05" spaceBetween="5">
+					<ion-slide *ngFor="let video of categoria.videos">
+						<ion-card class="capa-filme">
+							<ion-icon name="play" class="play-play"></ion-icon>
+							<ion-icon name="radio-button-off" class="circulo-play"></ion-icon>
+							<ion-icon name="ios-information-circle-outline" class="info-video"></ion-icon>
+							<img src="{{video.url}}" />
+							<ion-label class="titulo-video">{{video.nome}}</ion-label>
+						</ion-card>
+					</ion-slide>
+				</ion-slides>
 			</ion-label>
 		</ion-item>
 
 		<ion-item *ngFor="let categoria of categorias" class="listagem">
 			<ion-label class="espaco">
 				{{ categoria.nome }}
-				<ion-grid>
-					<ion-row class="espaco">
-						<ion-col col-4 *ngFor="let imagem of categoria.imagens">
-							<ion-card class="capa-filme">
-								<img src="{{imagem.url}}" />
-							</ion-card>
-						</ion-col>
-					</ion-row>
-				</ion-grid>
+
+				<ion-slides loop="true" pager="false" slidesPerView="3.2" spaceBetween="10">
+					<ion-slide *ngFor="let imagem of categoria.imagens">
+						<ion-card class="capa-filme">
+							<img src="{{imagem.url}}" />
+						</ion-card>
+					</ion-slide>
+				</ion-slides>
 			</ion-label>
 		</ion-item>
 	</ion-list>

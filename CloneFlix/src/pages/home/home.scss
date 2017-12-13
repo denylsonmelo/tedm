@@ -2,30 +2,33 @@ page-home {
 	.titulo-video {
 		position: fixed;
 		bottom: 2.5%;
-		left: 5%;
+		left: 2%;
+		margin: 0;
 	}
-	ion-icon[name='radio-button-off'],
-	ion-icon[name='information-circle'],
-	ion-icon[name='play'] {
+	.info-video {
+		color: map-get($colors, flixWhite);
+		position: fixed;
+		font-size: 2em;
+		bottom: 2.5%;
+		right: 2%;
+	}
+	.circulo-play{
 		font-size: 5em;
 		color: map-get($colors, flixWhite);
 		position: fixed;
-		top: 35%;
-		left: 35%;
+		top: 30%;
+		left: 41%;
 	}
-	ion-icon[name='information-circle']{
-		font-size: 2em;
-		top: 76%;
-		left: 81%;
-	}
-	ion-icon[name='play'] {
-		font-size: 3em;
-		top: 42%;
-		left: 42%;
+	.play-play{
+		color: map-get($colors, flixWhite);
+		position: fixed;
+		font-size: 2.7em;
+		top: 41%;
+		left: 48%;
 	}
 	.espaco {
 		margin: 0;
-		padding: 0;
+		padding: 5px 0;
 	}
 	.logo {
 		width: 40%;
@@ -38,6 +41,7 @@ page-home {
 	}
 	.borda .item-block .item-inner {
 		border-bottom: none;
+		padding-right: 0;
 	}
 	.listagem {
 		width: 100%;
@@ -47,5 +51,6 @@ page-home {
 	}
 	.scroll-content {
 		background-color: map-get($colors, flixGray);
+		padding-right: 0 !important;
 	}
 }
