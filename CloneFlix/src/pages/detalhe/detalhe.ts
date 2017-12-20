@@ -10,16 +10,18 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 @IonicPage()
 @Component({
-  selector: 'page-detalhe',
-  templateUrl: 'detalhe.html',
+	selector: 'page-detalhe',
+	templateUrl: 'detalhe.html',
 })
 export class DetalhePage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
-  }
+	video: { nome: string, ano: number, classificaoEtaria: number, filme: boolean, duracao: string, numeroTemporadas: number, qualidade: string, resumo: string } = { nome: "Stranger Things", ano: 2016, classificaoEtaria: 16, filme: false, duracao: "", numeroTemporadas: 2, qualidade: 'hd', resumo: "quando um garoto desaparece." };
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad DetalhePage');
-  }
+	constructor(public navCtrl: NavController, public navParams: NavParams) {
+	}
+
+	ionViewDidLoad() {
+		console.log('ionViewDidLoad DetalhePage');
+	}
 
 }

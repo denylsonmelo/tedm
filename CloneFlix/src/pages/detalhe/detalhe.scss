@@ -1,6 +1,21 @@
 page-detalhe {
+	.efeito-icone{
+		background-color: rgba(0, 0, 0, 0.3);
+		width: 30%;
+		border-radius: 50%;
+	}
+	.topo{
+		text-align: center;
+		line-height: 15;
+	}
+	.imagem-topo {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: -1;
+	}
 	.scroll-content {
 		background-color: map-get($colors, flixGray);
-		padding-right: 0 !important;
+		margin-top: 0 !important;
 	}
 }
