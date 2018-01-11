@@ -1,10 +1,44 @@
 page-detalhe {
-	.efeito-icone{
+	.espacamento{
+		span{
+			padding-right: 10px;
+		}
+	}
+	.texto-sem-quebrar {
+		white-space: normal;
+	}
+	.botao-na-linha {
+		display: inline-block;
+		text-align: center;
+		padding-right: 10px;
+		position: relative;
+		button{
+			color: map-get($colors, flixWhite);;
+			background: transparent;
+		}
+		ion-fab{
+			position: relative;
+			ion-fab-list{
+				background-color: rgba($color: #fff, $alpha: 0.5);
+				background-size: cover;
+				justify-content: space-between;
+				flex-direction: row;
+				button{
+					background: map-get($colors, flixGray);
+					margin: 10px;
+				}
+			}
+		}
+	}
+	small {
+		display: block;
+	}
+	.efeito-icone {
 		background-color: rgba(0, 0, 0, 0.3);
 		width: 30%;
 		border-radius: 50%;
 	}
-	.topo{
+	.topo {
 		text-align: center;
 		line-height: 15;
 	}
@@ -17,5 +51,6 @@ page-detalhe {
 	.scroll-content {
 		background-color: map-get($colors, flixGray);
 		margin-top: 0 !important;
+		color: map-get($colors, flixWhite);
 	}
 }

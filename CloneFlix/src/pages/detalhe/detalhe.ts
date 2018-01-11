@@ -15,7 +15,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class DetalhePage {
 
-	video: { nome: string, ano: number, classificaoEtaria: number, filme: boolean, duracao: string, numeroTemporadas: number, qualidade: string, resumo: string } = { nome: "Stranger Things", ano: 2016, classificaoEtaria: 16, filme: false, duracao: "", numeroTemporadas: 2, qualidade: 'hd', resumo: "quando um garoto desaparece." };
+	video: { nome: string, ano: number, classificaoEtaria: number, ehFilme: boolean, duracao: string, temporadas: string, qualidade: string, resumo: string, elenco: Array<string>, criacao: Array<string>, jaEstaClassificado: boolean, classificaoBoa: boolean } = { nome: "Stranger Things", ano: 2016, classificaoEtaria: 16, ehFilme: false, duracao: "", temporadas: "2 temporadas", qualidade: 'hd', resumo: "No caminho de volta para casa, Will é aterrorizado por alguma coisa. Não longe dali, um laboratório secreto guarda um segredo sinistro.", elenco: ["Winona Ryder", "David Harbour"], criacao: ["The Duffer Brothers"], jaEstaClassificado: true, classificaoBoa: false };
 
 	constructor(public navCtrl: NavController, public navParams: NavParams) {
 	}

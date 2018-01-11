@@ -12,13 +12,62 @@
 </ion-header>
 <ion-content padding>
 	<div class="topo">
-		<img src="http://expertplay.net/forum/uploads/monthly_2017_11/6f1c7f40664543.5787e03bf042c.jpg.b5833a29acbbcb5f55c0a558459d67df.jpg" class="imagem-topo">
+		<img src="http://expertplay.net/forum/uploads/monthly_2017_11/6f1c7f40664543.5787e03bf042c.jpg.b5833a29acbbcb5f55c0a558459d67df.jpg"
+		    class="imagem-topo">
 		<a>
 			<img src="assets/icon/play-button.svg" class="efeito-icone">
 		</a>
 	</div>
 
-	<ion-label>{{ video.nome }}</ion-label>
-	<ion-label>{{ video.ano  }} {{ video.classificaoEtaria}}</ion-label>
+	<h2>{{ video.nome }}</h2>
+	<small class="espacamento">
+		<span *ngIf="video.jaEstaClassificado">
+			<ion-icon name="thumbs-up" *ngIf="video.classificaoBoa"></ion-icon>
+			<ion-icon name="thumbs-down" *ngIf="!video.classificaoBoa"></ion-icon>
+		</span>
+		<span>{{ video.ano }}</span>
+		<span>{{ video.classificaoEtaria}}</span>
+		<span *ngIf="video.ehFilme"> {{ video.duracao }} </span>
+		<span *ngIf="!video.ehFilme"> {{ video.temporadas }} </span>
+		<span>{{ video.qualidade }}</span>
+	</small>
+	<ion-label class="texto-sem-quebrar">
+		{{video.resumo}}
+	</ion-label>
+	<small>
+		Elenco: {{ video.elenco }}
+	</small>
+	<small>
+		Criação: {{ video.criacao }}
+	</small>
+
+	<div class="botao-na-linha">
+		<button ion-button clear icon-top>
+			<ion-icon name="add"></ion-icon>
+		</button>
+		<small>Minha Lista</small>
+	</div>
+	<div class="botao-na-linha">
+		<ion-fab>
+			<button ion-fab mini><ion-icon name="thumbs-up"></ion-icon></button>
+			<ion-fab-list side="top">
+				<button ion-fab><ion-icon name="thumbs-up"></ion-icon></button>
+				<button ion-fab><ion-icon name="thumbs-down"></ion-icon></button>
+			</ion-fab-list>
+		</ion-fab>
+				<small>Classificar</small>
+	</div>
+	<div class="botao-na-linha" *ngIf="!video.ehFilme">
+		<button ion-button clear icon-top>
+			<ion-icon name="download"></ion-icon>
+		</button>
+		<small>Baixar</small>
+	</div>
+
+	<ion-label>
+		nome temporadas
+	</ion-label>
+	lista de episodios
+
 
 </ion-content>
