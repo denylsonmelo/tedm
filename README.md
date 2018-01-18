@@ -108,7 +108,7 @@ Ideia       |   Ramo                |   Grupo
 Entregás    |   Delivery            |   Mailson - Lana  
 TamuJunto   |   Entretenimento      |   Renan - Thalia  
 MobiTour    |   Turismo             |   Wesley - Gilvan 
-Indefinido* |   Compra - Delivery   |   Thiago - Matheus
+ListaMap    |   Compra - Delivery   |   Thiago - Matheus
 
 
 **Requisitos**
