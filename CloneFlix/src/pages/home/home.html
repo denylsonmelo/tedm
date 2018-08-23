@@ -1,5 +1,5 @@
 <ion-header>
-	<ion-navbar color="flixDark">
+	<ion-navbar>
 		<img src="assets/imgs/cloneflix_logo.png" class="logo">
 		<ion-buttons end>
 			<button ion-button icon-only>
@@ -21,7 +21,7 @@
 				<ion-slides loop="true" pager="false" slidesPerView="1.05" spaceBetween="5">
 					<ion-slide *ngFor="let video of categoria.videos">
 						<ion-card class="capa-filme" (tap)="detalhe()">
-							<ion-icon name="play" class="play-play" ></ion-icon>
+							<ion-icon name="play" class="play-play"></ion-icon>
 							<ion-icon name="radio-button-off" class="circulo-play"></ion-icon>
 							<ion-icon name="ios-information-circle-outline" class="info-video"></ion-icon>
 							<img src="{{video.url}}" />
@@ -37,9 +37,9 @@
 				{{ categoria.nome }}
 
 				<ion-slides loop="true" pager="false" slidesPerView="3.2" spaceBetween="10">
-					<ion-slide *ngFor="let imagem of categoria.imagens">
+					<ion-slide *ngFor="let midia of categoria.midias">
 						<ion-card class="capa-filme">
-							<img src="{{imagem.url}}" />
+							<img src="{{midia.url}}" />
 						</ion-card>
 					</ion-slide>
 				</ion-slides>

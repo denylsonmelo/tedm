@@ -5,12 +5,13 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { ScreenOrientation } from '@ionic-native/screen-orientation';
 
 import { DetalhePage } from '../pages/detalhe/detalhe';
+import { HomePage } from '../pages/home/home';
 
 @Component({
 	templateUrl: 'app.html'
 })
 export class MyApp {
-	rootPage: any = DetalhePage;
+	rootPage: any = HomePage;
 
 	constructor(platform: Platform, statusBar: StatusBar, splashScreen: SplashScreen, screenOrientation: ScreenOrientation) {
 		platform.ready().then(() => {

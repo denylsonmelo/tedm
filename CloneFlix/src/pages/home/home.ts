@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { DetalhePage } from '../detalhe/detalhe';
+import { MovieDbProvider } from '../../providers/movie-db/movie-db';
 
 @IonicPage()
 @Component({
@@ -19,31 +20,27 @@ export class HomePage {
 		},
 	];
 
-	categorias: Array<{ nome: string, imagens: Array<{ url: string }> }> = [
+	categorias: Array<{ nome: string, midias: Array<{ id: number, url: string }> }> = [
 		{
-			nome: "Minha lista", imagens: [
-				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
-				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
-				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+			nome: "Por que você gosta de Alien", midias: [
+				{ id: 1, url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+				{ id: 1, url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
+				{ id: 1, url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
 			]
 		},
-		{
-			nome: "Recentes", imagens: [
-				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
-				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
-				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
-			]
-		},
-		{
+		/*{
 			nome: "Por que você assistiu a Liga da Justiça", imagens: [
 				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
 				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
 				{ url: "http://nefasto.com.br/wp-content/uploads/2017/01/Jogos-Mortais-3-terror-nefasto.jpg" },
 			]
-		}
+		}*/
 	];
 
-	constructor(public navCtrl: NavController, public navParams: NavParams) {
+	constructor(public navCtrl: NavController, public navParams: NavParams, public mdb: MovieDbProvider) {
+
+		console.log("aqui   " + this.mdb.procurarListaFilmes("Alien"));
+		this.categorias[0].midias = this.mdb.procurarListaFilmes("Alien");
 	}
 
 	detalhe() {

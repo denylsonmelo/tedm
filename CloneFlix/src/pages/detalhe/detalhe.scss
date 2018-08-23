@@ -1,10 +1,9 @@
 page-detalhe {
-
-	h2{
+	h2 {
 		margin-top: 0;
 	}
-	.espacamento{
-		span{
+	.espacamento {
+		span {
 			padding-right: 10px;
 		}
 	}
@@ -16,30 +15,30 @@ page-detalhe {
 		text-align: center;
 		padding-right: 10px;
 		position: relative;
-		button{
-			color: map-get($colors, flixWhite);;
+		button {
+			color: map-get($colors, flixWhite);
 			background: transparent;
 		}
-		ion-fab{
+		ion-fab {
 			position: relative;
-			button{
+			button {
 				background: transparent;
 				box-shadow: none;
 				padding: 0;
 				margin: 0;
 				margin-bottom: 3px;
-				&.fab-close-active{
+				&.fab-close-active {
 					border: 2px solid #fff
 				}
 			}
-			ion-fab-list{
+			ion-fab-list {
 				background-color: rgba($color: #fff, $alpha: 0.5);
 				background-size: cover;
 				justify-content: space-between;
 				flex-direction: row;
 				margin-left: -30px;
 				margin-bottom: 45px;
-				button{
+				button {
 					background: map-get($colors, flixGray);
 					margin: 10px;
 					border: 2px solid #fff
@@ -69,5 +68,26 @@ page-detalhe {
 		background-color: map-get($colors, flixGray);
 		margin-top: 0 !important;
 		color: map-get($colors, flixWhite);
+		ion-item {
+			padding-left: 0;
+			background-color: inherit;
+			color: inherit;
+			.item-inner {
+				border-bottom-width: 0px !important;
+			}
+			ion-select {
+				padding-left: 0;
+				max-width: 100%;
+			}
+		}
+	}
+}
+
+ion-action-sheet {
+	.action-sheet-group {
+		background-color: map-get($colors, flixGray) !important;
+		.button-inner{
+			color: map-get($colors, flixWhite);
+		}
 	}
 }

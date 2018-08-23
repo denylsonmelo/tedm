@@ -28,7 +28,7 @@
 		<span>{{ video.ano }}</span>
 		<span>{{ video.classificaoEtaria}}</span>
 		<span *ngIf="video.ehFilme"> {{ video.duracao }} </span>
-		<span *ngIf="!video.ehFilme"> {{ video.temporadas }} </span>
+		<span *ngIf="!video.ehFilme"> {{ video.qtdTemporadas }} </span>
 		<span>{{ video.qualidade }}</span>
 	</small>
 	<ion-label class="texto-sem-quebrar">
@@ -50,10 +50,16 @@
 	</div>
 	<div class="botao-na-linha">
 		<ion-fab>
-			<button ion-fab mini><ion-icon name="thumbs-up"></ion-icon></button>
+			<button ion-fab mini>
+				<ion-icon name="thumbs-up"></ion-icon>
+			</button>
 			<ion-fab-list side="top">
-				<button ion-fab><ion-icon name="thumbs-up"></ion-icon></button>
-				<button ion-fab><ion-icon name="thumbs-down"></ion-icon></button>
+				<button ion-fab>
+					<ion-icon name="thumbs-up"></ion-icon>
+				</button>
+				<button ion-fab>
+					<ion-icon name="thumbs-down"></ion-icon>
+				</button>
 			</ion-fab-list>
 		</ion-fab>
 		<small>Classificar</small>
@@ -65,12 +71,24 @@
 		<small>Baixar</small>
 	</div>
 
-	<ion-item >
-		<ion-select [(ngModel)]="temporadaEscolhida" multiple="false" *ngFor="let nomeTemporada of video.nomeTemporadas" >
-			<ion-option value="{{nomeTemporada}}">{{nomeTemporada}}</ion-option>
+	<ion-item>
+		<ion-select [(ngModel)]="temporadaEscolhida" multiple="false" interface="action-sheet">
+			<ion-option *ngFor="let temporada of video.temporadas" value="{{temporada}}">{{temporada.nome}}</ion-option>
 		</ion-select>
 	</ion-item>
-	lista de episodios
+
+	<ion-list no-lines>
+		<ion-item *ngFor="let episodio of temporadaEscolhida.episodios; let index=index" (click)="selecionarEpisodio()">
+			<span>
+				{{(index+1) + " - " + episodio}}
+			</span>
+			<span>
+				<button ion-button clear icon-top>
+					<ion-icon name="download"></ion-icon>
+				</button>
+			</span>
+		</ion-item>
+	</ion-list>
 
 
 </ion-content>

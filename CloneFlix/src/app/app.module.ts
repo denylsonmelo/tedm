@@ -11,6 +11,7 @@ import { PerfisPage } from '../pages/perfis/perfis';
 import { HomePage } from '../pages/home/home';
 import { DetalhePage } from '../pages/detalhe/detalhe';
 import { MenuPage } from '../pages/menu/menu';
+import { MovieDbProvider } from '../providers/movie-db/movie-db';
 
 @NgModule({
 	declarations: [
@@ -36,7 +37,8 @@ import { MenuPage } from '../pages/menu/menu';
 		StatusBar,
 		SplashScreen,
 		ScreenOrientation,
-		{ provide: ErrorHandler, useClass: IonicErrorHandler }
+		{ provide: ErrorHandler, useClass: IonicErrorHandler },
+		MovieDbProvider
 	]
 })
 export class AppModule { }
