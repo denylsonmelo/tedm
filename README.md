@@ -124,7 +124,14 @@ Data        |   Evento                  |   Atividade
 </div>
 <br/>
 
-**A definir**
+**Documentação**
+* [Manifesto Reativo]
+* [Progressive Web App]
+* [Ionic]
+* [Angular]
+* [TypeScript]
+* [RxJS]
+* [Firebase]
 
 
 ## Contributing
@@ -163,3 +170,11 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Google android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=17634
 [Android para programadores: Uma abordagem baseada em aplicativos.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=16032
 [Google Android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=490
+
+[Manifesto Reativo] : https://www.reactivemanifesto.org/pt-BR
+[Progressive Web App] : https://developers.google.com/web/progressive-web-apps/
+[Ionic]: https://ionicframework.com/docs/
+[Angular]: https://angular.io/docs
+[TypeScript]: https://www.typescriptlang.org/docs/home.html
+[RxJS]: https://rxjs-dev.firebaseapp.com/guide/overview
+[Firebase]: https://firebase.google.com/docs/?hl=pt-br
