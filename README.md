@@ -5,12 +5,13 @@ Repositório para a disciplina Tópicos Especiais em Desenvolvimento Móvel dos 
 1. [Ementa]
 2. [Objetivo Geral]
 3. [Objetivo Específico]
-4. [Cronograma]
-5. [Exercicios]
-6. [Trabalhos]
-7. [Bibliografia]
-8. [Extras]
-9. [Contributing]
+4. [Apps]
+5. [Cronograma]
+6. [Exercicios]
+7. [Trabalhos]
+8. [Bibliografia]
+9. [Extras]
+10. [Contributing]
 
 ## Ementa
 ----
@@ -47,6 +48,22 @@ Está disciplina tem como objetivo introduzir o aluno a conceitos, dispositivos,
 * Conhecer técnicas de programação para aplicativos híbridos.
 * Conhecer técnicas de programação para Progressive Web Apps.
 * Desenvolver protótipos e aplicativos funcionais utilizando as técnicas, tecnologias e conhecimentos adquiridos em sala.
+
+## Apps
+----
+
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
+
+**Projetos Maiores**
+* [instagrando] - 2018.2
+* [cronefrix] - 2017.2
+
+**Iniciais**
+* [cadastro-aluno]
 
 ## Cronograma
 ----
@@ -130,9 +147,14 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Ementa]: #ementa
 [Objetivo Geral]: #objetivo-geral
 [Objetivo Específico]: #objetivo-específico
+[Apps]: #apps
 [Cronograma]: #cronograma
 [Exercicios]: #exercicios
 [Trabalhos]: #trabalhos
 [Bibliografia]: #bibliografia
 [Extras]: #extras
 [Contributing]: #contributing
+
+[instagrando]: https://github.com/denylsonmelo/instagrando
+[cronefrix]: https://github.com/denylsonmelo/cronefrix
+[cadastro-aluno]: https://github.com/denylsonmelo/cadastro-aluno/
