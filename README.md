@@ -1,15 +1,18 @@
 # Tópicos Especiais em Desenvolvimento Móvel
-----
-
-@TODO colocar introdução e objetivo da disciplina
+Repositório para a disciplina Tópicos Especiais em Desenvolvimento Móvel dos cursos de Informática do Ifpi - Campus Parnaíba.
 
 ## Indice
-1. [Conteudo]
-2. [App da Sala]
-3. [Informações Importantes]
-4. [Trabalho Final]
+1. [Ementa]
+2. [Objetivo Geral]
+3. [Objetivo Específico]
+4. [Cronograma]
+5. [Exercicios]
+6. [Trabalhos]
+7. [Bibliografia]
+8. [Extras]
+9. [Contributing]
 
-## Conteúdo
+## Ementa
 ----
 
 <br/>
@@ -18,13 +21,9 @@
 </div>
 <br/>
 
- * [Hibrido]
- * [Progressive Web App] 
- * [Ionic]
- * [Angular] 
- * [TypeScript]
+Visão geral sobre dispositivos móveis: Comparação entre dispositivos de sensoriamento, celulares, tablets e computadores convencionais; Visão geral sobre as plataformas de desenvolvimento mais utilizadas, como Android SDK, IPhone SDK e Windows Mobile. Requisitos e desafios para computação móvel. Arquitetura de Software Móvel. Sistemas operacionais móveis. IDEs e frameworks para Computação Móvel. Sensibilidade ao contexto e adaptação. Plataforma Android. Activities e Intents. Interfaces e Layouts. Services. Localização e Mapas. Armazenamento e banco de dados em aplicações móveis.
 
-## App da Sala
+## Objetivo Geral
 ----
 
 <br/>
@@ -33,19 +32,9 @@
 </div>
 <br/>
 
-@TODO colocar definicao de projeto a ser desenvolvido em sala pelos alunos
+Está disciplina tem como objetivo introduzir o aluno a conceitos, dispositivos, tecnologias e programação de sistemas para dispositivos móveis, entender as plataformas de desenvolvimento de aplicativos e aplicar o desenvolvimento de aplicativos em smartphones, tablets e outros dispositivos móveis. Entender as diferenças entre desenvolvimento móvel nativo e hibrido, vantagens e desvantagens de ambas as abordagens, frameworks utilizados no mercado, além de entender os conceitos de Progressive Web Apps.
 
-@TODO estudo de caso e atividades
-
-netflix***
-mockup: wesley
-analise casos de uso: mailson
-analise casos de classe: renan
-analise casos de sequencia: thalia
-analise casos de atividade: bernardo
-
-
-## Informações Importantes
+## Objetivo Específico
 ----
 
 <br/>
@@ -54,30 +43,12 @@ analise casos de atividade: bernardo
 </div>
 <br/>
 
-**Repositórios com exemplos interessantes**
+* Conhecer técnicas de programação para ambientes móveis.
+* Conhecer técnicas de programação para aplicativos híbridos.
+* Conhecer técnicas de programação para Progressive Web Apps.
+* Desenvolver protótipos e aplicativos funcionais utilizando as técnicas, tecnologias e conhecimentos adquiridos em sala.
 
- * [yannbf/ionic3-components]
-
-**Como rodar um projeto com códigos fontes existentes**
-
-Baixe o projeto pelo seu repositório
-```
-    git clone <seu-endereco-de-repositório-aqui> 
-``` 
-Entre na pasta do projeto e execute o comando abaixo para criar a pasta node_modules com suas dependências
-```
-    npm install
-```
-Rode o comando abaixo para criar a pasta www
-```
-    ionic serve
-```
-Rode o comando abaixo caso necessite restaurar plataformas e plugins que foram instalados no package.json
-```
-    ionic cordova prepare
-```
-
-## Trabalho Final
+## Cronograma
 ----
 
 <br/>
@@ -86,53 +57,11 @@ Rode o comando abaixo caso necessite restaurar plataformas e plugins que foram i
 </div>
 <br/>
 
-@TODO colocar definição do projeto
+Data        |   Evento                  |   Atividade
+---         |   ---                     |   ---
 
-**Grupo:** 2 pessoas
-
-**Sugestões**
-
-Ideia       |   Ramo
----         |   ---
-Uber        |   Transporte
-Tinder      |   Encontros
-AirBnb      |   Hotelaria
-iFood       |   Comida, Delivery
-iPark       |   Estacionamento, Pagamento
-iTHelp      |   Socorro, Emergência
-
-**Propostas Aceitas**
-
-Ideia       |   Ramo                |   Grupo           
----         |   ---                 |   ---             
-Entregás    |   Delivery            |   Mailson - Lana  
-TamuJunto   |   Entretenimento      |   Renan - Thalia  
-MobiTour    |   Turismo             |   Wesley - Gilvan 
-ListaMap    |   Compra - Delivery   |   Thiago - Matheus
-
-
-**Requisitos**
-
-> APIs 
-- Social Login ([Facebook], Google Identity \[[Sign-in], [One Tap]\], [Twitter])
-- Mapa ([Maps], [OpenStreetMap])
-- Pagamento ([Paypal], [PagSeguro], [MercadoPago], [pagar.me])
-
-**Marcos**
-> - **1º Acompanhamento:** ~~14/11/2017~~ ~~21/11/2017~~ 23/11/2017
-> - **2º Acompanhamento:** ~~12/12/2017~~ 19/12/2017
-> - **3º Acompanhamento:** 30/01/2018
-> - **[Prazo Final]:** 06/03/2018, às 23:59 hrs
-
-**Forma de entrega:**
-
-* Crie um repositório no [GitHub] e envie todo os arquivos para lá
-* No README.md coloque os componentes do grupo
-* Adicionar o usuário [denylsonmelo] como colaborador do projeto
-
-**Observações:**
-* Não serão aceitos trabalhos depois do prazo final
-* Certifique-se que todo o seu trabalho foi enviado
+## Exercicios
+----
 
 <br/>
 <div align="right">
@@ -140,31 +69,70 @@ ListaMap    |   Compra - Delivery   |   Thiago - Matheus
 </div>
 <br/>
 
-[Conteudo]: #conteudo
-[App da Sala]: #app-da-sala
-[Informações Importantes]: #informacoes-importantes
-[Trabalho Final]: #trabalho-final
+**A definir**
 
-[Hibrido]: #####
-[Progressive Web App]: https://developers.google.com/web/progressive-web-apps/ 
-[Ionic]: https://ionicframework.com/
-[Angular]: https://angular.io/
-[TypeScript]: https://www.typescriptlang.org/
+## Trabalhos
+----
 
-[Facebook]: https://developers.facebook.com/
-[Sign-in]: https://developers.google.com/identity/sign-in/web/
-[One Tap]: https://developers.google.com/identity/one-tap/web/
-[Twitter]: https://dev.twitter.com/web/sign-in
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
 
-[Maps]: https://developers.google.com/maps/?hl=pt-br
-[OpenStreetMap]: http://www.openstreetmap.com.br/
+**A definir**
 
-[Paypal]: https://developer.paypal.com/
-[PagSeguro]: https://dev.pagseguro.uol.com.br/
-[MercadoPago]: https://www.mercadopago.com.br/developers/pt/
-[pagar.me]: https://docs.pagar.me/
+## Bibliografia
+----
 
-[GitHub]: https://github.com/
-[denylsonmelo]: https://github.com/denylsonmelo/
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
 
-[yannbf/ionic3-components]: https://github.com/yannbf/ionic3-components
+* Lecheta, R.R., **Google android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.** Novatec. 4ª Edição, 2015.
+* Pilone, D.; Pilone, T. **Use a cabeça!: desenvolvimento para iPhone.** Rio de Janeiro: Alta Books, 2011. xxxi, 517 p. (Use a cabeça) ISBN 978-85-7608-522-5.
+* Deitel, P.; Deitel, A.; Morgano, M. **Android para programadores: Uma abordagem baseada em aplicativos.** Porto Alegre: Bookman, 2013.
+* Lecheta, R. R. **Google Android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.** 2ª ed., São Paulo : Novatec Editora, 2010
+
+
+## Extras
+----
+
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
+
+**A definir**
+
+
+## Contributing
+----
+
+<br/>
+<div align="right">
+    <b><a href="#indice">↥ Voltar para o indice</a></b>
+</div>
+<br/>
+
+Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Issue. Caso prefira, envie um Pull Request da maneira abaixo.
+
+1. Faça o _fork_ do projeto
+2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
+3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
+4. _Push_ (`git push origin feature/fooBar`)
+5. Crie um novo _Pull Request_
+
+
+[Ementa]: #ementa
+[Objetivo Geral]: #objetivo-geral
+[Objetivo Específico]: #objetivo-específico
+[Cronograma]: #cronograma
+[Exercicios]: #exercicios
+[Trabalhos]: #trabalhos
+[Bibliografia]: #bibliografia
+[Extras]: #extras
+[Contributing]: #contributing
