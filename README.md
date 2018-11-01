@@ -108,11 +108,12 @@ Data        |   Evento                  |   Atividade
 </div>
 <br/>
 
-* Lecheta, R.R., **Google android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.** Novatec. 4ª Edição, 2015.
+* Lecheta, R.R., **[Google android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.]** Novatec. 4ª Edição, 2015.
 * Pilone, D.; Pilone, T. **Use a cabeça!: desenvolvimento para iPhone.** Rio de Janeiro: Alta Books, 2011. xxxi, 517 p. (Use a cabeça) ISBN 978-85-7608-522-5.
-* Deitel, P.; Deitel, A.; Morgano, M. **Android para programadores: Uma abordagem baseada em aplicativos.** Porto Alegre: Bookman, 2013.
-* Lecheta, R. R. **Google Android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.** 2ª ed., São Paulo : Novatec Editora, 2010
+* Deitel, P.; Deitel, A.; Morgano, M. **[Android para programadores: Uma abordagem baseada em aplicativos.]** Porto Alegre: Bookman, 2013.
+* Lecheta, R. R. **[Google Android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.]** 2ª ed., São Paulo : Novatec Editora, 2010
 
+**Os livros com links possuem exemplares na biblioteca do Campus Parnaíba, os demais encontram-se listados no PPC do curso.**
 
 ## Extras
 ----
@@ -158,3 +159,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [instagrando]: https://github.com/denylsonmelo/instagrando
 [cronefrix]: https://github.com/denylsonmelo/cronefrix
 [cadastro-aluno]: https://github.com/denylsonmelo/cadastro-aluno/
+
+[Google android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=17634
+[Android para programadores: Uma abordagem baseada em aplicativos.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=16032
+[Google Android: aprenda a criar aplicações para dispositivos móveis com o Android SDK.]: http://sardes.ifpi.edu.br/pergamum/mobile/resultado_info.php?cod_acervo=490
