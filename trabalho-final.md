@@ -33,7 +33,7 @@ Cartao de fidelidade*    |   Consumo           |   Claudemir - Jailson
 ?    |   Games           |   Iuri - Kleiton
 ---    |   ---           |   Assis - Beatriz
 ---    |   ---           |   Joice - Lana
----    |   ---           |   Taynnar
+GoodVegan    |   Comida, Delivery           |   Taynnar
 
 
 **Requisitos**
