@@ -26,14 +26,14 @@ iTHelp      |   Socorro, Emergência
 
 Ideia       |   Ramo                |   Grupo           
 ---         |   ---                 |   ---             
-Streaming de animes*    |   Streaming           |   Henrique - Elias
-AluQuar    |   Hospedagem           |   Breno - Davi
+AnimesUp    |   Streaming           |   Henrique - Elias
+aluQuar     |   Hospedagem           |   Breno - Davi
 Cartao de fidelidade*    |   Consumo           |   Claudemir - Jailson
----    |   ---           |   Dionis - Gustavo
-?    |   Games           |   Iuri - Kleiton
----    |   ---           |   Assis - Beatriz
----    |   ---           |   Joice - Lana
-GoodVegan    |   Comida, Delivery           |   Taynnar
+---         |   Eventos           |   Dionis - Gustavo
+GameNews    |   Games           |   Iuri - Kleiton
+---         |   Cinema           |   Assis - Beatriz
+Carona Amiga|   Transporte           |   Joice - Lana
+GoodVegan   |   Comida, Delivery           |   Taynnar
 
 
 **Requisitos**
