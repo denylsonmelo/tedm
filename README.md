@@ -59,6 +59,7 @@ Está disciplina tem como objetivo introduzir o aluno a conceitos, dispositivos,
 <br/>
 
 **Projetos Maiores**
+* [tender] - 2019.1
 * [instagrando] - 2018.2
 * [cronefrix] - 2017.2
 
@@ -167,6 +168,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Extras]: #extras
 [Contributing]: #contributing
 
+[tender]: https://github.com/denylsonmelo/tender
 [instagrando]: https://github.com/denylsonmelo/instagrando
 [cronefrix]: https://github.com/denylsonmelo/cronefrix
 [cadastro-aluno]: https://github.com/denylsonmelo/cadastro-aluno/
