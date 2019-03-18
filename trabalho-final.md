@@ -26,14 +26,15 @@ iTHelp      |   Socorro, Emergência
 
 Ideia       |   Ramo                |   Grupo           
 ---         |   ---                 |   ---             
-AnimesUp    |   Streaming           |   Henrique - Elias
+AnimesUp!    |   Listagem de mangas           |   Henrique - Elias
 aluQuar     |   Hospedagem           |   Breno - Davi
 Cartao de fidelidade*    |   Consumo           |   Claudemir - Jailson
 ---         |   Eventos           |   Dionis - Gustavo
 GameNews    |   Games           |   Iuri - Kleiton
----         |   Cinema           |   Assis - Beatriz
+Closet Online         |   Aluguel de roupa           |   Assis - Beatriz
 Carona Amiga|   Transporte           |   Joice - Lana
 GoodVegan   |   Comida, Delivery           |   Taynnar
+---   |   ---           |   Zé
 
 
 **Requisitos**
