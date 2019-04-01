@@ -29,12 +29,11 @@ Ideia       |   Ramo                |   Grupo
 AnimesUp!    |   Listagem de mangas           |   Henrique - Elias
 aluQuar     |   Hospedagem           |   Breno - Davi
 Cartao de fidelidade*    |   Consumo           |   Claudemir - Jailson
----         |   Eventos           |   Dionis - Gustavo
+MyEvent         |   Eventos           |   Dionis - Gustavo
 GameNews    |   Games           |   Iuri - Kleiton
 Closet Online         |   Aluguel de roupa           |   Assis - Beatriz
-Carona Amiga|   Transporte           |   Joice - Lana
+Carona Amiga|   Transporte           |   Joice - Lana - Zé
 GoodVegan   |   Comida, Delivery           |   Taynnar
----   |   ---           |   Zé
 
 
 **Requisitos**
