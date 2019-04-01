@@ -49,6 +49,8 @@ GoodVegan   |   Comida, Delivery           |   Taynnar
 > - **3º Acompanhamento:** 11/06/2019
 > - **[Prazo Final]:** 01/07/2019
 
+pizza 8 hambuguers, se todos passarem
+
 **Forma de entrega:**
 
 * Crie um repositório no [GitHub] e envie todo os arquivos para lá
