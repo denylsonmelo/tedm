@@ -141,6 +141,10 @@ Data        |   Evento                  |   Atividade
 * [Angular]
 * [Ionic 3 para iniciantes]
 * [Create a CRUD Application with Ionic 3 and Firebase]
+* [Firebase para Web e Apps híbridos]
+* [IONIC 4 | Develop Hybrid Mobile Applications | IOS & Android]
+* [Desenvolvimento com Ionic 3 + WebComponents com StencilJS]
+* [Criar aplicativos com Ionic 3 e Laravel (PHP) com MongoDB]
 
 ## Contributing
 ----
@@ -194,3 +198,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Angular]: https://loiane.training/curso/angular
 [Ionic 3 para iniciantes]: https://www.udemy.com/ionic-3-para-iniciantes/
 [Create a CRUD Application with Ionic 3 and Firebase]: https://www.udemy.com/create-a-crud-application-with-ionic-3-and-firebase/
+[Firebase para Web e Apps híbridos]: https://www.udemy.com/firebase-para-web-e-apps-hibridos/
+[IONIC 4 | Develop Hybrid Mobile Applications | IOS & Android]: https://www.udemy.com/hybrid-mobile-applications-with-ionic4/
+[Desenvolvimento com Ionic 3 + WebComponents com StencilJS]: https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/
+[Criar aplicativos com Ionic 3 e Laravel (PHP) com MongoDB]: https://www.udemy.com/criar-aplicativos-com-ionic-3-e-laravelphp-com-mongodb/
