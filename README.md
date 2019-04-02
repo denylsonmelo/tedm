@@ -136,6 +136,8 @@ Data        |   Evento                  |   Atividade
 
 **Cursos**
 * [HTML5]
+* [CSS3]
+* [HTML5 & CSS3 na Prática]
 * [Angular]
 * [Ionic 3 para iniciantes]
 * [Create a CRUD Application with Ionic 3 and Firebase]
@@ -187,6 +189,8 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Firebase]: https://firebase.google.com/docs/?hl=pt-br
 
 [HTML5]: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGKl3iPEyEWpFoYkMUxWW5O
+[CSS3]: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG
+[HTML5 & CSS3 na Prática]: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
 [Angular]: https://loiane.training/curso/angular
 [Ionic 3 para iniciantes]: https://www.udemy.com/ionic-3-para-iniciantes/
 [Create a CRUD Application with Ionic 3 and Firebase]: https://www.udemy.com/create-a-crud-application-with-ionic-3-and-firebase/
