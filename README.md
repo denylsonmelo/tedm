@@ -135,6 +135,7 @@ Data        |   Evento                  |   Atividade
 * [Firebase]
 
 **Cursos**
+* [HTML5]
 * [Angular]
 * [Ionic 3 para iniciantes]
 * [Create a CRUD Application with Ionic 3 and Firebase]
@@ -185,6 +186,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [RxJS]: https://rxjs-dev.firebaseapp.com/guide/overview
 [Firebase]: https://firebase.google.com/docs/?hl=pt-br
 
+[HTML5]: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGKl3iPEyEWpFoYkMUxWW5O
 [Angular]: https://loiane.training/curso/angular
 [Ionic 3 para iniciantes]: https://www.udemy.com/ionic-3-para-iniciantes/
 [Create a CRUD Application with Ionic 3 and Firebase]: https://www.udemy.com/create-a-crud-application-with-ionic-3-and-firebase/
