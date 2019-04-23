@@ -31,9 +31,8 @@ aluQuar     |   Hospedagem           |   Breno - Davi
 Cartao de fidelidade*    |   Consumo           |   Claudemir - Jailson
 MyEvent         |   Eventos           |   Dionis - Gustavo
 GameNews    |   Games           |   Iuri - Kleiton
-Closet Online         |   Aluguel de roupa           |   Assis - Beatriz
 Carona Amiga|   Transporte           |   Joice - Lana - Zé
-GoodVegan   |   Comida, Delivery           |   Taynnar
+GoodVegan   |   Comida, Delivery           |   Taynnar - Assis
 
 
 **Requisitos**
