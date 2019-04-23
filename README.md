@@ -145,6 +145,8 @@ Data        |   Evento                  |   Atividade
 * [IONIC 4 | Develop Hybrid Mobile Applications | IOS & Android]
 * [Desenvolvimento com Ionic 3 + WebComponents com StencilJS]
 * [Criar aplicativos com Ionic 3 e Laravel (PHP) com MongoDB]
+* [Como criar um CRUD com Ionic e Firebase – Em alguns simples passos]
+* [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]
 
 ## Contributing
 ----
@@ -202,3 +204,5 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [IONIC 4 | Develop Hybrid Mobile Applications | IOS & Android]: https://www.udemy.com/hybrid-mobile-applications-with-ionic4/
 [Desenvolvimento com Ionic 3 + WebComponents com StencilJS]: https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/
 [Criar aplicativos com Ionic 3 e Laravel (PHP) com MongoDB]: https://www.udemy.com/criar-aplicativos-com-ionic-3-e-laravelphp-com-mongodb/
+[Como criar um CRUD com Ionic e Firebase – Em alguns simples passos]: http://www.fabricadecodigo.com/crud-firebase-ionic/
+[Angular + Cloud Firestore — Step by step (bootstrap) tutorial]: https://medium.com/factory-mind/angular-cloud-firestore-step-by-step-bootstrap-tutorial-ecb96db8d071
