@@ -148,6 +148,7 @@ Data        |   Evento                  |   Atividade
 * [Como criar um CRUD com Ionic e Firebase – Em alguns simples passos]
 * [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]
 * [Cloud Fire Store CRUD Operation Using Angular]
+* [Ionic 4 + Firebase + Angular]
 
 ## Contributing
 ----
@@ -208,3 +209,4 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Como criar um CRUD com Ionic e Firebase – Em alguns simples passos]: http://www.fabricadecodigo.com/crud-firebase-ionic/
 [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]: https://medium.com/factory-mind/angular-cloud-firestore-step-by-step-bootstrap-tutorial-ecb96db8d071
 [Cloud Fire Store CRUD Operation Using Angular]: https://medium.com/@jinalshah999/cloud-fire-store-crud-operation-using-angular-f319bef27ce0
+[Ionic 4 + Firebase + Angular]: https://www.youtube.com/playlist?list=PLYxzS__5yYQnpK36-GJjm7IEAuHR7IExa
