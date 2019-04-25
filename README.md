@@ -147,6 +147,7 @@ Data        |   Evento                  |   Atividade
 * [Criar aplicativos com Ionic 3 e Laravel (PHP) com MongoDB]
 * [Como criar um CRUD com Ionic e Firebase – Em alguns simples passos]
 * [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]
+* [Cloud Fire Store CRUD Operation Using Angular]
 
 ## Contributing
 ----
@@ -206,3 +207,4 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Criar aplicativos com Ionic 3 e Laravel (PHP) com MongoDB]: https://www.udemy.com/criar-aplicativos-com-ionic-3-e-laravelphp-com-mongodb/
 [Como criar um CRUD com Ionic e Firebase – Em alguns simples passos]: http://www.fabricadecodigo.com/crud-firebase-ionic/
 [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]: https://medium.com/factory-mind/angular-cloud-firestore-step-by-step-bootstrap-tutorial-ecb96db8d071
+[Cloud Fire Store CRUD Operation Using Angular]: https://medium.com/@jinalshah999/cloud-fire-store-crud-operation-using-angular-f319bef27ce0
