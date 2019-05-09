@@ -150,6 +150,10 @@ Data        |   Evento                  |   Atividade
 * [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]
 * [Cloud Fire Store CRUD Operation Using Angular]
 * [Ionic 4 + Firebase + Angular]
+* [Firebase Authentication with Angular]
+* [Firebase Authentication in Angular with AngularFire2]
+* [Google OAuth with @angular/fire]
+
 
 ## Contributing
 ----
@@ -197,6 +201,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [RxJS]: https://rxjs-dev.firebaseapp.com/guide/overview
 [Firebase]: https://firebase.google.com/docs/?hl=pt-br
 
+[Canais Brasileiros para Pessoas Desenvolvedoras]: https://github.com/carolcodes/youtube-br-desenvolvimento
 [HTML5]: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGKl3iPEyEWpFoYkMUxWW5O
 [CSS3]: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG
 [HTML5 & CSS3 na Prática]: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
@@ -211,4 +216,6 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]: https://medium.com/factory-mind/angular-cloud-firestore-step-by-step-bootstrap-tutorial-ecb96db8d071
 [Cloud Fire Store CRUD Operation Using Angular]: https://medium.com/@jinalshah999/cloud-fire-store-crud-operation-using-angular-f319bef27ce0
 [Ionic 4 + Firebase + Angular]: https://www.youtube.com/playlist?list=PLYxzS__5yYQnpK36-GJjm7IEAuHR7IExa
-[Canais Brasileiros para Pessoas Desenvolvedoras]: https://github.com/carolcodes/youtube-br-desenvolvimento
+[Firebase Authentication with Angular]: https://angular-templates.io/tutorials/about/firebase-authentication-with-angular
+[Firebase Authentication in Angular with AngularFire2]: https://alligator.io/angular/firebase-authentication-angularfire2/
+[Google OAuth with @angular/fire]: https://fireship.io/lessons/angularfire-google-oauth/
