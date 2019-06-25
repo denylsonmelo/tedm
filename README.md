@@ -219,3 +219,6 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Firebase Authentication with Angular]: https://angular-templates.io/tutorials/about/firebase-authentication-with-angular
 [Firebase Authentication in Angular with AngularFire2]: https://alligator.io/angular/firebase-authentication-angularfire2/
 [Google OAuth with @angular/fire]: https://fireship.io/lessons/angularfire-google-oauth/
+
+[PWAs: The Future of Web Apps]: https://hackernoon.com/the-future-of-web-apps-772f5bd14d1c
+[PayPal Checkout 2.0 - Monetize React, Angular, & Vue Quickly]: https://www.youtube.com/watch?v=AtZGoueL4Vs
