@@ -134,11 +134,18 @@ Data        |   Evento                  |   Atividade
 * [RxJS]
 * [Firebase]
 
-**Cursos**
+**Videos**
 * [Canais Brasileiros para Pessoas Desenvolvedoras]
 * [HTML5]
 * [CSS3]
 * [HTML5 & CSS3 na Prática]
+* [Ionic 4 + Firebase + Angular]
+* [PayPal Checkout 2.0 - Monetize React, Angular, & Vue Quickly]
+* [Ionic Stories]
+* [Ionic 4 + Firebase | Surf Shop]
+* [Ionic 4 | Uber]
+
+**Cursos**
 * [Angular]
 * [Ionic 3 para iniciantes]
 * [Create a CRUD Application with Ionic 3 and Firebase]
@@ -146,13 +153,15 @@ Data        |   Evento                  |   Atividade
 * [IONIC 4 | Develop Hybrid Mobile Applications | IOS & Android]
 * [Desenvolvimento com Ionic 3 + WebComponents com StencilJS]
 * [Criar aplicativos com Ionic 3 e Laravel (PHP) com MongoDB]
+
+**Artigos**
 * [Como criar um CRUD com Ionic e Firebase – Em alguns simples passos]
 * [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]
 * [Cloud Fire Store CRUD Operation Using Angular]
-* [Ionic 4 + Firebase + Angular]
 * [Firebase Authentication with Angular]
 * [Firebase Authentication in Angular with AngularFire2]
 * [Google OAuth with @angular/fire]
+* [PWAs: The Future of Web Apps]
 
 
 ## Contributing
@@ -219,6 +228,8 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 [Firebase Authentication with Angular]: https://angular-templates.io/tutorials/about/firebase-authentication-with-angular
 [Firebase Authentication in Angular with AngularFire2]: https://alligator.io/angular/firebase-authentication-angularfire2/
 [Google OAuth with @angular/fire]: https://fireship.io/lessons/angularfire-google-oauth/
-
 [PWAs: The Future of Web Apps]: https://hackernoon.com/the-future-of-web-apps-772f5bd14d1c
 [PayPal Checkout 2.0 - Monetize React, Angular, & Vue Quickly]: https://www.youtube.com/watch?v=AtZGoueL4Vs
+[Ionic Stories]: https://www.youtube.com/playlist?list=PLVHEME2ddirDkRtL9PagcAaPAa1Pzif3l
+[Ionic 4 + Firebase | Surf Shop]: https://www.youtube.com/playlist?list=PLVHEME2ddirBuaAZ-j12igZf6aEh9uSfh
+[Ionic 4 | Uber]: https://www.youtube.com/playlist?list=PLVHEME2ddirAkHQKtdHD5a6I7UZRPXCBO
