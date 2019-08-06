@@ -26,13 +26,14 @@ iTHelp      |   Socorro, Emergência
 
 Ideia       |   Ramo                |   Grupo           
 ---         |   ---                 |   ---             
-AnimesUp!    |   Listagem de mangas           |   Henrique - Elias
-aluQuar     |   Hospedagem           |   Breno - Davi
-Cartao de fidelidade*    |   Consumo           |   Claudemir - Jailson
-MyEvent         |   Eventos           |   Dionis - Gustavo
-GameNews    |   Games           |   Iuri - Kleiton
-Carona Amiga|   Transporte           |   Joice - Lana - Zé
-GoodVegan   |   Comida, Delivery           |   Taynnar - Assis
+Save Dandara|   Rede Social         |   Vitin, 
+Game News   |   Noticias            |   Iuri, 
+Carona Amiga|   Transporte          |   ze
+            |   Pet Shop            |   evaldo, jamile
+SportSystem |   Eventos             |   Claudemir, jailson
+---         |   Postos              |   Pedro,
+---         |   loja                |   Alaine, 
+
 
 
 **Requisitos**
@@ -43,10 +44,10 @@ GoodVegan   |   Comida, Delivery           |   Taynnar - Assis
 - Pagamento ([Paypal], [PagSeguro], [MercadoPago], [pagar.me])
 
 **Marcos**
-> - **1º Acompanhamento:** 26/03/2019
-> - **2º Acompanhamento:** 07/05/2019
-> - **3º Acompanhamento:** 11/06/2019
-> - **[Prazo Final]:** 01/07/2019
+> - **1º Acompanhamento:** 28/08/2019
+> - **2º Acompanhamento:** 25/09/2019
+> - **3º Acompanhamento:** 30/10/2019
+> - **[Prazo Final]:** 04/12/2019
 
 pizza 8 hambuguers, se todos passarem
 
