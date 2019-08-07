@@ -29,10 +29,11 @@ Ideia       |   Ramo                |   Grupo
 Save Dandara|   Rede Social         |   Vitin, 
 Game News   |   Noticias            |   Iuri, 
 Carona Amiga|   Transporte          |   ze
-            |   Pet Shop            |   evaldo, jamile
+---         |   Pet Shop            |   evaldo, jamile
 SportSystem |   Eventos             |   Claudemir, jailson
----         |   Postos              |   Pedro,
+---         |   Postos              |   Pedro, fatima
 ---         |   loja                |   Alaine, 
+---         |   animes              |   david, lolgan 
 
 
 
