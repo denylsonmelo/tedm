@@ -26,14 +26,14 @@ iTHelp      |   Socorro, Emergência
 
 Ideia       |   Ramo                |   Grupo           
 ---         |   ---                 |   ---             
-Save Dandara|   Rede Social         |   Vitin, 
+Save Dandara|   Rede Social         |   Vitin, jamile
 Game News   |   Noticias            |   Iuri, 
 Carona Amiga|   Transporte          |   ze
----         |   Pet Shop            |   evaldo, jamile
+Pet Feliz   |   Pet Shop            |   evaldo,
 SportSystem |   Eventos             |   Claudemir, jailson
----         |   Postos              |   Pedro, fatima
+Moto a Jato |   Entrega             |   Pedro, fatima
 ---         |   loja                |   Alaine, 
----         |   animes              |   david, lolgan 
+Wanipon     |   animes              |   david, lolgan 
 
 
 
