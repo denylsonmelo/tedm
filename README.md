@@ -1,7 +1,9 @@
 # Tópicos Especiais em Desenvolvimento Móvel
+
 Repositório para a disciplina Tópicos Especiais em Desenvolvimento Móvel dos cursos de Informática do Ifpi - Campus Parnaíba.
 
 ## Indice
+
 1. [Ementa]
 2. [Objetivo Geral]
 3. [Objetivo Específico]
@@ -14,6 +16,7 @@ Repositório para a disciplina Tópicos Especiais em Desenvolvimento Móvel dos 
 10. [Contributing]
 
 ## Ementa
+
 ----
 
 <br/>
@@ -25,6 +28,7 @@ Repositório para a disciplina Tópicos Especiais em Desenvolvimento Móvel dos 
 Visão geral sobre dispositivos móveis: Comparação entre dispositivos de sensoriamento, celulares, tablets e computadores convencionais; Visão geral sobre as plataformas de desenvolvimento mais utilizadas, como Android SDK, IPhone SDK e Windows Mobile. Requisitos e desafios para computação móvel. Arquitetura de Software Móvel. Sistemas operacionais móveis. IDEs e frameworks para Computação Móvel. Sensibilidade ao contexto e adaptação. Plataforma Android. Activities e Intents. Interfaces e Layouts. Services. Localização e Mapas. Armazenamento e banco de dados em aplicações móveis.
 
 ## Objetivo Geral
+
 ----
 
 <br/>
@@ -36,6 +40,7 @@ Visão geral sobre dispositivos móveis: Comparação entre dispositivos de sens
 Está disciplina tem como objetivo introduzir o aluno a conceitos, dispositivos, tecnologias e programação de sistemas para dispositivos móveis, entender as plataformas de desenvolvimento de aplicativos e aplicar o desenvolvimento de aplicativos em smartphones, tablets e outros dispositivos móveis. Entender as diferenças entre desenvolvimento móvel nativo e hibrido, vantagens e desvantagens de ambas as abordagens, frameworks utilizados no mercado, além de entender os conceitos de Progressive Web Apps.
 
 ## Objetivo Específico
+
 ----
 
 <br/>
@@ -50,6 +55,7 @@ Está disciplina tem como objetivo introduzir o aluno a conceitos, dispositivos,
 * Desenvolver protótipos e aplicativos funcionais utilizando as técnicas, tecnologias e conhecimentos adquiridos em sala.
 
 ## Apps
+
 ----
 
 <br/>
@@ -58,16 +64,19 @@ Está disciplina tem como objetivo introduzir o aluno a conceitos, dispositivos,
 </div>
 <br/>
 
-**Projetos Maiores**
+### Projetos Maiores
+
 * [whatsupp] - 2019.2
 * [tender] - 2019.1
 * [instagrando] - 2018.2
 * [cronefrix] - 2017.2
 
-**Iniciais**
+### Iniciais
+
 * [cadastro-aluno]
 
 ## Cronograma
+
 ----
 
 <br/>
@@ -80,6 +89,7 @@ Data        |   Evento                  |   Atividade
 ---         |   ---                     |   ---
 
 ## Exercicios
+
 ----
 
 <br/>
@@ -88,9 +98,10 @@ Data        |   Evento                  |   Atividade
 </div>
 <br/>
 
-**A definir**
+### A definir
 
 ## Trabalhos
+
 ----
 
 <br/>
@@ -103,7 +114,7 @@ Data        |   Evento                  |   Atividade
 
 **Grupo:** 2 pessoas
 
-**Sugestões**
+### Sugestões
 
 Ideia       |   Ramo
 ---         |   ---
@@ -114,35 +125,33 @@ iFood       |   Comida, Delivery
 iPark       |   Estacionamento, Pagamento
 iTHelp      |   Socorro, Emergência
 
-**Propostas Aceitas**
+### Propostas Aceitas
 
-Ideia       |   Ramo                |   Grupo           
----         |   ---                 |   ---             
+Ideia       |   Ramo                |   Grupo
+---         |   ---                 |   ---
 Save Dandara|   Rede Social         |   Vitin, jamile
-Game News   |   Noticias            |   Iuri, 
+Game News   |   Noticias            |   Iuri,
 Carona Amiga|   Transporte          |   ze
 Pet Feliz   |   Pet Shop            |   evaldo,
 SportSystem |   Eventos             |   Claudemir, jailson
 Moto a Jato |   Entrega             |   Pedro, fatima
----         |   loja                |   Alaine, 
-Wanipon     |   animes              |   david, lolgan 
+---         |   loja                |   Alaine,
+Wanipon     |   animes              |   david, lolgan
 
+### Requisitos
 
+> APIs
 
-**Requisitos**
+* Social Login ([Facebook], Google Identity \[[Sign-in], [One Tap]\], [Twitter])
+* Mapa ([Maps], [OpenStreetMap])
+* Pagamento ([Paypal], [PagSeguro], [MercadoPago], [pagar.me])
 
-> APIs 
-- Social Login ([Facebook], Google Identity \[[Sign-in], [One Tap]\], [Twitter])
-- Mapa ([Maps], [OpenStreetMap])
-- Pagamento ([Paypal], [PagSeguro], [MercadoPago], [pagar.me])
+### Marcos
 
-**Marcos**
-> - **1º Acompanhamento:** 28/08/2019
-> - **2º Acompanhamento:** 25/09/2019
-> - **3º Acompanhamento:** 30/10/2019
-> - **[Prazo Final]:** 04/12/2019
-
-pizza 8 hambuguers, se todos passarem
+> * **1º Acompanhamento:** 28/08/2019
+> * **2º Acompanhamento:** 25/09/2019
+> * **3º Acompanhamento:** 30/10/2019
+> * **[Prazo Final]:** 04/12/2019
 
 **Forma de entrega:**
 
@@ -151,6 +160,7 @@ pizza 8 hambuguers, se todos passarem
 * Adicionar o usuário [denylsonmelo] como colaborador do projeto
 
 **Observações:**
+
 * Não serão aceitos trabalhos depois do prazo final
 * Certifique-se que todo o seu trabalho foi enviado
 
@@ -161,6 +171,7 @@ pizza 8 hambuguers, se todos passarem
 <br/>
 
 ## Bibliografia
+
 ----
 
 <br/>
@@ -177,6 +188,7 @@ pizza 8 hambuguers, se todos passarem
 **Os livros com links possuem exemplares na biblioteca do Campus Parnaíba, os demais encontram-se listados no PPC do curso.**
 
 ## Extras
+
 ----
 
 <br/>
@@ -185,7 +197,8 @@ pizza 8 hambuguers, se todos passarem
 </div>
 <br/>
 
-**Documentação**
+### Documentação
+
 * [Manifesto Reativo]
 * [Progressive Web App]
 * [Ionic]
@@ -194,7 +207,8 @@ pizza 8 hambuguers, se todos passarem
 * [RxJS]
 * [Firebase]
 
-**Videos**
+### Videos
+
 * [Canais Brasileiros para Pessoas Desenvolvedoras]
 * [HTML5]
 * [CSS3]
@@ -205,7 +219,8 @@ pizza 8 hambuguers, se todos passarem
 * [Ionic 4 + Firebase | Surf Shop]
 * [Ionic 4 | Uber]
 
-**Cursos**
+### Cursos
+
 * [Angular]
 * [Ionic 3 para iniciantes]
 * [Create a CRUD Application with Ionic 3 and Firebase]
@@ -214,7 +229,8 @@ pizza 8 hambuguers, se todos passarem
 * [Desenvolvimento com Ionic 3 + WebComponents com StencilJS]
 * [Criar aplicativos com Ionic 3 e Laravel (PHP) com MongoDB]
 
-**Artigos**
+### Artigos
+
 * [Como criar um CRUD com Ionic e Firebase – Em alguns simples passos]
 * [Angular + Cloud Firestore — Step by step (bootstrap) tutorial]
 * [Cloud Fire Store CRUD Operation Using Angular]
@@ -223,8 +239,8 @@ pizza 8 hambuguers, se todos passarem
 * [Google OAuth with @angular/fire]
 * [PWAs: The Future of Web Apps]
 
-
 ## Contributing
+
 ----
 
 <br/>
@@ -240,7 +256,6 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
 5. Crie um novo _Pull Request_
-
 
 [Ementa]: #ementa
 [Objetivo Geral]: #objetivo-geral
